@@ -1,10 +1,19 @@
 {
   "files": {
-    "main.js": "/react-payments/static/js/main.9728f100.js",
+    "main.js": "/react-payments/static/js/main.f858879e.js",
+    "static/media/wooricard-logo.svg": "/react-payments/static/media/wooricard-logo.69909908475bd0f435c293143b77d2bb.svg",
+    "static/media/kbcard-logo.svg": "/react-payments/static/media/kbcard-logo.950012387e0eb8a79eb5d181887f5bba.svg",
+    "static/media/bccard-logo.svg": "/react-payments/static/media/bccard-logo.1906f6c4fb3a2f75b71d0821023fcc21.svg",
+    "static/media/shinhancard-logo.svg": "/react-payments/static/media/shinhancard-logo.0e86c0dd58a7775f658648db26b63a6b.svg",
+    "static/media/hanacard-logo.svg": "/react-payments/static/media/hanacard-logo.d8f54a2fda5930967bba5f7e10b8109f.svg",
+    "static/media/lottecard-logo.svg": "/react-payments/static/media/lottecard-logo.9796ef58826d29eb2df769c3ed2f0a3f.svg",
+    "static/media/ic-chip.svg": "/react-payments/static/media/ic-chip.520726a1f33bafc0967a0d499482205e.svg",
     "index.html": "/react-payments/index.html",
-    "main.9728f100.js.map": "/react-payments/static/js/main.9728f100.js.map"
+    "static/media/hyundaicard-logo.svg": "/react-payments/static/media/hyundaicard-logo.6fbeeec3bb37a1b428cc5bb121331d58.svg",
+    "static/media/kakaobank-logo.svg": "/react-payments/static/media/kakaobank-logo.7e24bf72b3b9ad9085af95f9890518da.svg",
+    "main.f858879e.js.map": "/react-payments/static/js/main.f858879e.js.map"
   },
   "entrypoints": [
-    "static/js/main.9728f100.js"
+    "static/js/main.f858879e.js"
   ]
 }
