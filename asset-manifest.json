@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/react-payments/static/js/main.688f8805.js",
+    "main.js": "/react-payments/static/js/main.edbf6078.js",
     "static/media/wooricard-logo.svg": "/react-payments/static/media/wooricard-logo.69909908475bd0f435c293143b77d2bb.svg",
     "static/media/kbcard-logo.svg": "/react-payments/static/media/kbcard-logo.950012387e0eb8a79eb5d181887f5bba.svg",
     "static/media/bccard-logo.svg": "/react-payments/static/media/bccard-logo.1906f6c4fb3a2f75b71d0821023fcc21.svg",
@@ -11,9 +11,9 @@
     "index.html": "/react-payments/index.html",
     "static/media/hyundaicard-logo.svg": "/react-payments/static/media/hyundaicard-logo.6fbeeec3bb37a1b428cc5bb121331d58.svg",
     "static/media/kakaobank-logo.svg": "/react-payments/static/media/kakaobank-logo.7e24bf72b3b9ad9085af95f9890518da.svg",
-    "main.688f8805.js.map": "/react-payments/static/js/main.688f8805.js.map"
+    "main.edbf6078.js.map": "/react-payments/static/js/main.edbf6078.js.map"
   },
   "entrypoints": [
-    "static/js/main.688f8805.js"
+    "static/js/main.edbf6078.js"
   ]
 }
